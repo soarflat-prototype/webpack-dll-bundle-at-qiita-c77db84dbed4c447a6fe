@@ -1,0 +1,13 @@
+{
+  "name": "webpack-dll-bundle-at-qiita-c77db84dbed4c447a6fe",
+  "version": "1.0.0",
+  "description": "[webpackのDLLバンドルを使ってビルドを速くする](http://qiita.com/pirosikick/items/c77db84dbed4c447a6fe)",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^2.3.3"
+  },
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
